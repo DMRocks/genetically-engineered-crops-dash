@@ -3,7 +3,6 @@ from dash import dcc
 from dash import html
 from dash.dependencies import Input,Output
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px
 
 #Get Data, Get Dash
